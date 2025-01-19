@@ -1,12 +1,9 @@
-# Hackapet
-
-A YSWS where you code + design a virtual pet, and we ship you a physical hackable tamagotchi clone to play it on!
-
-Check out the site: https://hackapet.hackclub.dev - includes more info + getting started guide!
+# Hackapet- Obakeneko
+"obakeneko.ogg" is a Hackapet/Virtual pet program made for Hackapet by Hack Club. 
 
 ## on submissions
 
-When you've finished your game, create a PR in the /pets folder! 
+When you've finished your game, create a Pull Request in the /pets folder! 
 
 Call your PR whatever your pet/game is named - also, **put your slack username in the PR comment so I can find you**!!
 
@@ -16,4 +13,3 @@ Note:
 - try to have at least 2 minutes of gameplay
 
 This YSWS ends Jan 31 - get your pets in before then :D
-
