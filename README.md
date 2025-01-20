@@ -7,18 +7,7 @@ add introduction story, explaining that the player is a
 nekomata, and that their friend the Obakeneko is the Rokurokubi's pet. 
 
 ## program:
-table food interactions
-table drink interactions
-table interaction with big table
-table interaction with chef hat
-table exit interaction
-
-outside interactions
-outside moon interaction
-outside exit interaction
-animate grass for outside
-
-flowers game
+table food interactions | table drink interactions | table interaction with big table | table interaction with chef hat | table exit interaction | outside interactions | outside moon interaction | outside exit interaction | animate grass for outside | flowers game
 flower interaction
 feather game (1 of 3 is the lucky feather. select right feather to win.)
 flower exit
