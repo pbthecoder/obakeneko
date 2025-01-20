@@ -18,7 +18,7 @@ convert python code to circuitpython without exploding anything
 
 When you've finished your game, create a Pull Request in the /pets folder! 
 
-Call your PR whatever your pet/game is named - also, **put your slack username in the PR comment so I can find you**!!
+Call your Pull Request whatever your pet/game is named - also, **put your slack username in the Pull Request comment so I can find you**!!
 
 Note:
 - you must be in high school (or younger!)
