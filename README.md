@@ -3,9 +3,10 @@
 
 # To-do
 ## program:
-table food interactions | table drink interactions | table interaction with big table | table interaction with chef hat | table exit interaction | outside interactions | outside moon interaction | outside exit interaction | animate grass for outside | flowers game | flower interaction | feather game (1 of 3 is the lucky feather. select right feather to win.) | flower exit | reprogram cat and sounds, that did not work right
+table food interactions | table drink interactions | table interaction with big table | table interaction with chef hat | table exit interaction | outside interactions | outside moon interaction | outside exit interaction | animate grass for outside | flowers game | flower interaction | feather game (1 of 3 is the lucky feather. select right feather to win.) | flower exit | reprogram cat and sounds, that did not work right | Cat room buy items
+
 ## art:
-Outside bg | oni | kitsune | kappa | grass | Flowers bg | lucky feather | flower petals
+Outside bg | oni | kitsune | kappa | grass | Flowers bg | flower petals | shop bg | rocket set | computer | hack club sticker | orpheus | hakkun | rillaboom drums | lantern | disco ball | lincoln logs | i can do this poster | sh!t
 
 ## convert:
 convert python code to circuitpython without exploding anything
