@@ -14,8 +14,6 @@ flower interaction
 feather game (1 of 3 is the lucky feather. select right feather to win.)
 flower exit
 reprogram cat and sounds, that did not work right
-Cat room buy items
-shop page
 
 ## art:
 none atm
