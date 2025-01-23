@@ -8,10 +8,7 @@ table drink interactions
 table interaction with big table
 table interaction with chef hat
 table exit interaction
-outside interactions
-outside moon interaction
 outside exit interaction
-animate grass for outside
 flowers game
 flower interaction
 feather game (1 of 3 is the lucky feather. select right feather to win.)
@@ -21,7 +18,7 @@ Cat room buy items
 shop page
 
 ## art:
-Flowers bg
+none atm
 
 ## convert:
 convert python code to circuitpython without exploding anything
